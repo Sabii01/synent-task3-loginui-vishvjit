@@ -27,3 +27,6 @@ Supports all modern evergreen browsers.
 
 ## Submission
 Task 3 - Synent Technologies Internship
+
+## Browser Support
+Supports all modern evergreen browsers.
