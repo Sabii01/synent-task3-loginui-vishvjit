@@ -57,7 +57,7 @@ synent-task3-loginui-vishvjit/
 2. Open the project folder.
 3. Open `index.html` in your preferred web browser.
 4. Interact with the login form and test the available features.
-```
+
 ---
 
 ## 👨‍💻 Author
