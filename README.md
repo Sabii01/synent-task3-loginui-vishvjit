@@ -37,6 +37,9 @@ synent-task3-loginui-vishvjit/
 ├── style.css
 ├── script.js
 └── README.md
+```
+
+---
 
 ## 📸 Screenshots
 
@@ -46,23 +49,15 @@ synent-task3-loginui-vishvjit/
 ### Password Visibility Enabled
 ![Password Visibility Enabled](assets/images/password-visible.png)
 
+---
+
 ## ▶️ How to Run
 
 1. Clone or download the repository.
 2. Open the project folder.
 3. Open `index.html` in your preferred web browser.
 4. Interact with the login form and test the available features.
-```[cite: 1]
-
-## 🎯 Learning Outcomes
-
-- Building responsive web layouts[cite: 1]
-- Creating modern authentication interfaces[cite: 1]
-- Form validation using JavaScript[cite: 1]
-- DOM manipulation[cite: 1]
-- Improving user experience with interactive UI elements[cite: 1]
-- Organizing project files professionally[cite: 1]
-
+```
 ---
 
 ## 👨‍💻 Author
